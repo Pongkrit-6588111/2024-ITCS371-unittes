@@ -1,2 +1,2 @@
-# 2024-ITCS371-unittes
+# 2024-ITCS371-unittest
 Repository for ITCS371 unit testing lab.
